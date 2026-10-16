@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lean Cleaner</string>
+    <string name="a11y_desc">Taps Force stop and Clear data buttons in system Settings for apps you select. Nothing else is read or stored.</string>
+</resources>

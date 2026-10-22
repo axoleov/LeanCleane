@@ -1,5 +1,9 @@
 # LeanCleaner
 
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/axoleov/LeanCleane/releases/latest/download/app-debug.apk)
+
+> **⬇️ [Click here to download the latest APK](https://github.com/axoleov/LeanCleane/releases/latest/download/app-debug.apk)** — no account needed, just open it on your Android device and install.
+
 Android app project built with Kotlin and Gradle.
 
 ## Build
